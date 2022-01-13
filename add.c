@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 float add(float a,float b)
 {
